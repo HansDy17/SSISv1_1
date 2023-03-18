@@ -1,5 +1,7 @@
 # SSISv1_1
-To run this code, do install stdiomask and cryptography first in your machine.
+This is a simple student information system code with log-in and encryption system.
+
+To run this code without any errors, do install stdiomask and cryptography first in your machine.
 
 To do so, do the following:
   1. Open your command prompt
