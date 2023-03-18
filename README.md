@@ -1,6 +1,5 @@
 # SSISv1_1
-
-Do install stdiomask and cryptography first in your machine.
+To run this code, do install stdiomask and cryptography first in your machine.
 
 To do so, do the following:
   1. Open your command prompt
@@ -8,3 +7,7 @@ To do so, do the following:
     2.1 pip install stdiomask
   3. Type this to install cryptography
     3.1 pip install cryptography
+
+If you are prompt for log-in, use this:
+  user: admin
+  pass: 1234
