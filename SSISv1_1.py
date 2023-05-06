@@ -6,9 +6,9 @@ from cryptography.fernet import Fernet
 clear = lambda: os.system('cls')
 rec_fields = ['id_num', 'name', 'gender', 'age', 'course' ,'Year Level',  'email']
 course_fields = ['id_num', 'course']
-student_database = 'students1_Final.csv'
+student_database = 'students1_1.csv'
 pass_db = 'passv1_1.csv'
-course_database = 'course1_Final.csv' 
+course_database = 'course1_1.csv' 
 
 try:
     with open("keyv1.key", "rb") as key_file:
